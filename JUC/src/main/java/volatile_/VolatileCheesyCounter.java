@@ -12,7 +12,7 @@ public class VolatileCheesyCounter {
         return value;
     }
 
-    public synchronized int increase() {
-        return value++;
+    public synchronized void increase() {
+        value++;
     }
 }
