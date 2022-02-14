@@ -1,4 +1,4 @@
-package aqs.question.customer;
+package question.customer;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

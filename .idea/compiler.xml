@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JUC" />
+        <module name="Reflect" />
+        <module name="Annotation" />
       </profile>
     </annotationProcessing>
   </component>

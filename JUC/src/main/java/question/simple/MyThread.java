@@ -1,4 +1,4 @@
-package aqs.question.simple;
+package question.simple;
 
 import java.util.concurrent.locks.Lock;
 

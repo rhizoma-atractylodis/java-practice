@@ -1,4 +1,4 @@
-package aqs.question.customer;
+package question.customer;
 
 public class Producer {
     private Depot depot;

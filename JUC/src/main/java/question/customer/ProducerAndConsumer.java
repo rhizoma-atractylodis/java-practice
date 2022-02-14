@@ -1,4 +1,4 @@
-package aqs.question.customer;
+package question.customer;
 
 public class ProducerAndConsumer {
     public static void main(String[] args) {
